@@ -1,5 +1,5 @@
 ### Project Description
-This project applies analysis using synthetic individual‑level data to compare classical statistical models and machine learning methods with respect to explanation, inference, and predictive performance. The synthetic dataset allows controlled experimentation without privacy concerns, enabling benchmarking of regression (Lasso, Random Forest) and classification (Logistic Regression) approaches.
+This project analyses the determinants of health outcomes and healthcare expenditures using a synthetic population dataset, integrating econometric and machine learning approaches. Classical econometric models including OLS and logistic regression are employed to estimate marginal effects of socioeconomic and demographic factors within a causal framework. Machine learning models such as LASSO and Random Forests are implemented to evaluate predictive performance and compare results with traditional methods. 
 
 ### Disclaimer
 The dataset used in this analysis is entirely synthetic.
