@@ -4,7 +4,7 @@
 - This project is intended solely for methodological demonstration and model development practice.
 ---
 ## Objective
-The primary objective of this study is to develop and evaluate statistical and machine learning models capable of explaining and predicting individual-level outcome measures using synthetic data. The analysis emphasizes model interpretability, predictive performance, and proper evaluation techniques.
+- The primary objective of this study is to develop and evaluate statistical and machine learning models capable of explaining and predicting individual-level outcome measures using synthetic data. The analysis emphasizes model interpretability, predictive performance, and proper evaluation techniques.
 ---
 ## Features Considered
 The synthetic dataset includes the following features:
